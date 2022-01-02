@@ -19,6 +19,6 @@
 
 📫 Reach me here! moni.sm@gmail.com 
 
-👀 Personal portfolio: [www.monicasaiz.com](monicasaiz.com)
+👀 Personal portfolio: [www.monicasaiz.com](http://monicasaiz.com)
 
 🙋🏻 She/her
