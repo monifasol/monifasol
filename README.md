@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 🙋🏻
 
-<!--
-**monifasol/monifasol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:bowtie: I'm a Front-End Developer lover of the view
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:alien: Fanatic of CSS
+
+🌱 Currently learning ReactJS and VueJS 
+
+🔭 Currently working on some CSS3 colorful animations...
+
+🎓 Obsessed with learning
+
+:ant: Start small to grow big
+
+:sunny: Every day is a sunny day!  
+
+💬 Happy to talk about code!  
+
+📫 Reach me here! moni.sm@gmail.com 
+
+👀 Personal portfolio: [www.monicasaiz.com](monicasaiz.com)
+
+🙋🏻 She/her
