@@ -1,7 +1,7 @@
 ### Hi there 🙋🏻
 
 
-:bowtie: I'm a Front-End Developer lover of the view
+:bowtie: I'm a Front-End Developer  - obsessed with the view
 
 :alien: Fanatic of CSS
 
@@ -9,16 +9,12 @@
 
 🔭 Currently working on some CSS3 colorful animations...
 
-🎓 Obsessed with learning
-
 :ant: Start small to grow big
-
-:sunny: Every day is a sunny day!  
 
 💬 Happy to talk about code!  
 
-📫 Reach me here! moni.sm@gmail.com 
+:sunny: Reach out! moni.sm@gmail.com 
 
-👀 Personal portfolio: [www.monicasaiz.com](http://monicasaiz.com)
+👀 Portfolio: [www.monicasaiz.com](http://monicasaiz.com)
 
 🙋🏻 She/her
