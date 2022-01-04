@@ -15,6 +15,6 @@
 
 :sunny: Reach out! moni.sm@gmail.com 
 
-👀 Portfolio: [www.monicasaiz.com](http://monicasaiz.com)
+👀 Portfolio: [www.monicasaiz.com](http://www.monicasaiz.com)
 
 🙋🏻 She/her
